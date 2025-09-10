@@ -1,0 +1,8 @@
+cat > week1/ai.txt <<'TXT'
+# AI usage log – Week 1
+Date:
+Models used:
+Prompts (summarized):
+Outputs used in repo (files/sections):
+Notes/limitations:
+TXT
