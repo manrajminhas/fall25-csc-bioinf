@@ -1,0 +1,6 @@
+[1mdict.codon:8 (9-23): [1;31merror:[0m[1m 'NoneType' object has no attribute '__hash__'[0m
+├─ [1mdict.codon:258 (17-27): [1;31merror:[0m[1m during the realization of _dict_hash(key: NoneType)[0m
+├─ [1mdict.codon:88 (16-33): [1;31merror:[0m[1m during the realization of _kh_get(self: Dict[NoneType,NoneType], key: NoneType)[0m
+├─ [1mdbg.py:19 (12-35): [1;31merror:[0m[1m during the realization of __contains__(self: Dict[NoneType,NoneType], key: NoneType)[0m
+├─ [1mmain.py:16 (23-37): [1;31merror:[0m[1m during the realization of get_id(self: DBG[List[NoneType],int,Dict[NoneType,NoneType],Dict[NoneType,NoneType]], kmer: str)[0m
+╰─ [1mmain.py:88 (5-14): [1;31merror:[0m[1m during the realization of build_dbg(reads: List[str], dbg: DBG[List[NoneType],int,Dict[NoneType,NoneType],Dict[NoneType,NoneType]])[0m
