@@ -1,3 +1,5 @@
+import sys
+sys.setrecursionlimit(1000000)
 from dbg import DBG
 from utils import read_data
 import sys
